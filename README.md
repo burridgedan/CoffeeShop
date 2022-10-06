@@ -2,6 +2,7 @@
 This repository is for the code I created in 2019 - 2020 for a second year university module.
 
 * The only changes to the code since the assignment was handed in is making it compatible with PHP 8.1 (demo site runs on PHP 8.1.11 currently), and updating font awesome.
+* The admin panel is not usable on the demo to stop abuse. If you wish to test the admin panel please download the code from this repo and run it on your own local environment.
 * You will need to generate your own kit link for font awesome. You can find the relevent line in Template/header.php.
 * The database structure can be found within SQL/database.sql.
 * Database connection settings can be set under Model/Model.php.
